@@ -6,6 +6,7 @@
 
 ## Статьи
 ### 2021
+[Подборка ссылок для знакомства с доступной разработкой](https://web-standards.ru/articles/a11y-links/), Веб-стандарты.
 [Что нового в WCAG 3.0](https://web-standards.ru/articles/wcag3-changes/), Веб-стандарты.
 ### 2019
 - [Доступность и закон](https://web-standards.ru/articles/a11y-and-law/), Веб-стандарты.
