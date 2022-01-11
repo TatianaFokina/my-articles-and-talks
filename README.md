@@ -21,7 +21,7 @@
 
 ## Переводы
 ### 2021
-[Мифы о веб-доступности](https://a11ymyths.com/ru/). Перевод проекта Сергея Кригера.
+[Мифы о веб-доступности](https://a11ymyths.com/ru/). Перевод проекта Сергея Кригера [Accessibility Myths](https://a11ymyths.com).
 ### 2019
 - [Инклюзивные компоненты: сворачиваемые секции](https://web-standards.ru/articles/collapsible-sections/), «Веб-стандарты». Перевод [«Collapsible Sections»](https://inclusive-components.design/collapsible-sections/) Хейдона Пикеринга.
 - [Инклюзивные компоненты: интерфейсы со вкладками](https://web-standards.ru/articles/tabbed-interfaces/), «Веб-стандарты». Перевод [«Tabbed Interfaces»](https://inclusive-components.design/tabbed-interfaces/) Хейдона Пикеринга.
