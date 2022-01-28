@@ -39,7 +39,7 @@
 
 ## Доклады
 ### 2022
-Доступные фичи и где они обитают ([презентация](https://docs.google.com/presentation/d/1yy_CoFHCSts4_bSJXofXT2rCSSfSR6T9NiLM02V_6_s/edit?usp=sharing)), Конференция о цифровой доступности.
+Доступные фичи и где они обитают ([презентация](https://docs.google.com/presentation/d/1yy_CoFHCSts4_bSJXofXT2rCSSfSR6T9NiLM02V_6_s/edit?usp=sharing) и [запись на YouTube](https://youtu.be/s8JwoE91xcA)), Конференция о цифровой доступности.
 ### 2020
 [Ты ничего не знаешь про alt, %username%](https://youtu.be/bEj3qur8vjU), pitera11y_meetup 2.
 
