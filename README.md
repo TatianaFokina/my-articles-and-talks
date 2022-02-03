@@ -5,6 +5,8 @@
 [Список постов](https://tatiana-fokina-blog.ru/posts/) из моего блога про цифровую доступность.
 
 ## Статьи
+### 2022
+[Аудит доступности: основы](https://web-standards.ru/articles/a11y-audit-basics/), «Веб-стандарты». Написана вместе с Василием Дудиным.
 ### 2021
 - [Скринридеры](https://doka.guide/html/screenreaders/), Дока.
 - [Подборка ссылок для знакомства с доступной разработкой](https://web-standards.ru/articles/a11y-links/), «Веб-стандарты».
