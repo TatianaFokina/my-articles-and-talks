@@ -2,7 +2,12 @@
 Мои выступления и тексты про разработку. В основном про доступность.
 
 ## Блог
-[Список постов](https://tatiana-fokina-blog.ru/posts/) из моего блога про цифровую доступность.
+### 2022
+[ARIA-атрибут role с несколькими значениями](https://tatiana-fokina-blog.ru/posts/aria-attribute-role-with-multiple-values/).
+### 2021
+- [CSS-медиафичи для улучшения доступности](https://tatiana-fokina-blog.ru/posts/css-media-features-for-a11y/).
+- [Разбираемся со skip link](https://tatiana-fokina-blog.ru/posts/understanding-a-skip-link/).
+- [Как не навредить пользователям с эпилепсией и вестибулярными нарушениями](https://tatiana-fokina-blog.ru/posts/how-to-protect-users-with-epilepsy-and-vd/).
 
 ## Статьи
 ### 2022
