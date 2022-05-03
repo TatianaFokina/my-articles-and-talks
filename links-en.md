@@ -1,4 +1,4 @@
-# Articles, Posts, Translations, Talks, and Postcasts
+# Articles, Posts, Translations, Talks, and Podcasts
 This is a list of my texts and talks about development and accessibility. All of them on Russian for now.
 
 ## Posts
