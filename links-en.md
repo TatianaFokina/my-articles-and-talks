@@ -1,5 +1,4 @@
 # Articles, Posts, Translations, Talks, and Podcasts
-This is a list of my texts and talks about development and accessibility. All of them on Russian for now.
 
 ## Posts
 I have a [personal blog](https://tatiana-fokina-blog.ru) about accessibility development and design.
