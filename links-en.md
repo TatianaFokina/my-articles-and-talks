@@ -25,7 +25,7 @@ I have a [personal blog](https://tatiana-fokina-blog.ru) about accessibility.
 
 ### 2022
 
-- [`presentation, none`](https://doka.guide/a11y/role-presentation-none/), Doka.
+- [`presentation`, `none`](https://doka.guide/a11y/role-presentation-none/), Doka.
 - [`contentinfo`](https://doka.guide/a11y/role-contentinfo/), Doka.
 - [`aria-roledescription`](https://doka.guide/a11y/aria-roledescription/), Doka.
 - [`aria-labelledby`](https://doka.guide/a11y/aria-labelledby/), Doka.
