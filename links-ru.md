@@ -1,29 +1,54 @@
 # Статьи, переводы, доклады и подкасты
 
-## Блог
+## Блог 🗃️
 
 ### 2022
 
+- [Принципы WCAG. Название страницы](https://tatiana-fokina-blog.ru/posts/wcag-page-titled/).
+- [Принципы WCAG. Видимый фокус](https://tatiana-fokina-blog.ru/posts/wcag-focus-visible/).
+- [Принципы WCAG. Нетекстовое содержимое](https://tatiana-fokina-blog.ru/posts/wcag-non-text-content/).
+- [Принципы WCAG. Клавиша символа в клавиатурном сокращении](https://tatiana-fokina-blog.ru/posts/wcag-character-key/).
+- [Принципы WCAG. Сенсорные характеристики](https://tatiana-fokina-blog.ru/posts/wcag-sensory-characteristics/).
+- [Принципы WCAG. Размер цели](https://tatiana-fokina-blog.ru/posts/wcag-target-size/).
 - [Принципы WCAG. Консистентная идентификация](https://tatiana-fokina-blog.ru/posts/wcag-consistent-identification/).
 - [ARIA-атрибут role с несколькими значениями](https://tatiana-fokina-blog.ru/posts/aria-attribute-role-with-multiple-values/).
 
 ### 2021
+
 - [CSS-медиафичи для улучшения доступности](https://tatiana-fokina-blog.ru/posts/css-media-features-for-a11y/).
 - [Разбираемся со skip link](https://tatiana-fokina-blog.ru/posts/understanding-a-skip-link/).
 - [Как не навредить пользователям с эпилепсией и вестибулярными нарушениями](https://tatiana-fokina-blog.ru/posts/how-to-protect-users-with-epilepsy-and-vd/).
 
-## Статьи
+## Статьи ✏️
 
 ### 2022
 
-[Аудит доступности: основы](https://web-standards.ru/articles/a11y-audit-basics/), «Веб-стандарты». Написана вместе с Василием Дудиным.
+- [`presentation, none`](https://doka.guide/a11y/role-presentation-none/), Дока.
+- [`contentinfo`](https://doka.guide/a11y/role-contentinfo/), Дока.
+- [`aria-roledescription`](https://doka.guide/a11y/aria-roledescription/), Дока.
+- [`aria-labelledby`](https://doka.guide/a11y/aria-labelledby/), Дока.
+- [`aria-label`](https://doka.guide/a11y/aria-label/), Дока.
+- [`aria-keyshortcuts`](https://doka.guide/a11y/aria-keyshortcuts/), Дока.
+- [`aria-invalid`](https://doka.guide/a11y/aria-invalid/), Дока.
+- [`aria-hidden`](https://doka.guide/a11y/aria-hidden/), Дока.
+- [`aria-flowto`](https://doka.guide/a11y/aria-flowto/), Дока.
+- [`aria-errormessage`](https://doka.guide/a11y/aria-errormessage/), Дока.
+- [`aria-description`](https://doka.guide/a11y/aria-description/), Дока.
+- [`aria-describedby`](https://doka.guide/a11y/aria-describedby/), Дока.
+- [ARIA-атрибуты](https://doka.guide/a11y/aria-attrs/), Дока.
+- [ARIA-роли](https://doka.guide/a11y/aria-roles/), Дока.
+- [Введение в ARIA](https://doka.guide/a11y/aria-intro/), Дока.
+- [Что такое доступность](https://doka.guide/a11y/chto-takoe-a11y/), Дока.
+- [Аудит доступности: основы](https://web-standards.ru/articles/a11y-audit-basics/), «Веб-стандарты». Написана вместе с Василием Дудиным.
 
 ### 2021
+
 - [Скринридеры](https://doka.guide/html/screenreaders/), Дока.
 - [Подборка ссылок для знакомства с доступной разработкой](https://web-standards.ru/articles/a11y-links/), «Веб-стандарты».
 - [Что нового в WCAG 3.0](https://web-standards.ru/articles/wcag3-changes/), «Веб-стандарты».
 
 ### 2019
+
 - [Доступность и закон](https://web-standards.ru/articles/a11y-and-law/), «Веб-стандарты».
 - [Как русскоязычные пользователи с особыми потребностями пользуются сайтами](https://web-standards.ru/articles/a11y-poll-2019/), «Веб-стандарты». Совместное с Сергеем Кригером исследование пользователей.
 - [Всё, что нужно знать про ARIA Live Regions](https://web-standards.ru/articles/aria-live-regions/), «Веб-стандарты».
@@ -35,7 +60,7 @@
 - [Accessibility API и доступность](https://medium.com/@fokinatatiana/accessibility-api-%D0%B8-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D1%8C-5a0a93931397), Medium.
 - [Кому нужна доступность в вебе](https://medium.com/@fokinatatiana/%D0%BA%D0%BE%D0%BC%D1%83-%D0%BD%D1%83%D0%B6%D0%BD%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B2-%D0%B2%D0%B5%D0%B1%D0%B5-6a86dc3e532f), Medium.
 
-## Переводы
+## Переводы 🔤
 
 ### 2021
 
@@ -59,10 +84,12 @@
 - [Полезные правила доступности, которые останутся в памяти](https://web-standards.ru/articles/pragmatic-a11y-rules/), «Веб-стандарты». Перевод [«Pragmatic rules of web accessibility that will stick to your mind»](https://medium.com/free-code-camp/pragmatic-rules-of-web-accessibility-that-will-stick-to-your-mind-9d3eb85a1a28) Тьяго Ромеро Герсии.
 - [Важность уровней заголовков для вспомогательных технологий](https://web-standards.ru/articles/heading-levels/), «Веб-стандарты». Перевод [«The importance of heading levels for assistive technology»](https://webdesign.tutsplus.com/articles/the-importance-of-heading-levels-for-assistive-technology--cms-31753) Эрика Бейли.
 
-## Доклады
+## Доклады и стримы 👩‍🎤
 
 ### 2022
 
+- [Веб в 2022](https://youtu.be/ZY-2VzzkmJg) (стрим Доки).
+- [Аудит доступности сайта](https://youtu.be/NaO57Py3JK4) (стрим Доки).
 - Барьеры в вебе ([презентация](https://tatianafokina.github.io/talks/web-barriers/) и [запись на YouTube](https://youtu.be/-KLa5UBpK6o)), Конференция о цифровой доступности.
 - Доступные фичи и где они обитают ([презентация](https://docs.google.com/presentation/d/1yy_CoFHCSts4_bSJXofXT2rCSSfSR6T9NiLM02V_6_s/edit?usp=sharing) и [запись на YouTube](https://youtu.be/s8JwoE91xcA)), Конференция о цифровой доступности.
 
@@ -70,7 +97,7 @@
 
 [Ты ничего не знаешь про alt, %username%](https://youtu.be/bEj3qur8vjU), pitera11y_meetup 2.
 
-## Подкасты
+## Подкасты 🎙️
 
 ### 2019
 
