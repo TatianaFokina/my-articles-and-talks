@@ -23,7 +23,7 @@
 
 ### 2022
 
-- [`presentation, none`](https://doka.guide/a11y/role-presentation-none/), Дока.
+- [`presentation`, `none`](https://doka.guide/a11y/role-presentation-none/), Дока.
 - [`contentinfo`](https://doka.guide/a11y/role-contentinfo/), Дока.
 - [`aria-roledescription`](https://doka.guide/a11y/aria-roledescription/), Дока.
 - [`aria-labelledby`](https://doka.guide/a11y/aria-labelledby/), Дока.
