@@ -2,7 +2,7 @@
 
 ## Posts 🗃️
 
-I have a [personal blog](https://tatiana-fokina-blog.ru) about accessibility.
+I have [a personal blog](https://tatiana-fokina-blog.ru) about accessibility.
 
 ### 2023
 
@@ -78,6 +78,7 @@ I have a [personal blog](https://tatiana-fokina-blog.ru) about accessibility.
 ## Translations 🔤
 
 ### 2021
+
 [Russian translation of the project Accessibility Myths](https://a11ymyths.com/ru/) by Sergei Kriger.
 
 ### 2019
@@ -108,7 +109,7 @@ I have a [personal blog](https://tatiana-fokina-blog.ru) about accessibility.
 
 - [The Web in 2022](https://youtu.be/ZY-2VzzkmJg) (Doka's stream).
 - [Accessibility audit of Doka](https://youtu.be/NaO57Py3JK4) (Doka's stream).
-- Barriers in the Web ([the presentation](https://tatianafokina.github.io/talks/web-barriers/) и [the video on YouTube](https://youtu.be/-KLa5UBpK6o)), The Accessibility Conference.
+- Barriers in the Web ([the presentation](https://tatianafokina.github.io/talks/web-barriers/) and [the video on YouTube](https://youtu.be/-KLa5UBpK6o)), The Accessibility Conference.
 - Accessible features and where to find them ([the presentation](https://docs.google.com/presentation/d/1yy_CoFHCSts4_bSJXofXT2rCSSfSR6T9NiLM02V_6_s/edit?usp=sharing) and [the video on YouTube](https://youtu.be/s8JwoE91xcA)), The Accessibility Conference.
 
 ### 2020
