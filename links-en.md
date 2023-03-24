@@ -4,6 +4,12 @@
 
 I have a [personal blog](https://tatiana-fokina-blog.ru) about accessibility.
 
+### 2023
+
+- [Keyboard](https://tatiana-fokina-blog.ru/posts/wcag-keyboard/).
+- [Focus appearance](https://tatiana-fokina-blog.ru/posts/wcag-focus-appearance/).
+- [WCAG. Information and relationships](https://tatiana-fokina-blog.ru/posts/wcag-info-and-relationships/).
+
 ### 2022
 
 - [WCAG. Page titled](https://tatiana-fokina-blog.ru/posts/wcag-page-titled/).
@@ -22,6 +28,13 @@ I have a [personal blog](https://tatiana-fokina-blog.ru) about accessibility.
 - [CSS media features for accessibility](https://tatiana-fokina-blog.ru/posts/css-media-features-for-a11y/).
 
 ## Articles ✏️
+
+### 2023
+
+- [What is WCAG](https://doka.guide/a11y/wcag/), Doka.
+- [`aria-modal`](https://doka.guide/a11y/aria-modal/), Doka.
+- [`switch`](https://doka.guide/a11y/role-switch/), Doka.
+- [`tooltip`](https://doka.guide/a11y/role-tooltip/), Doka.
 
 ### 2022
 
@@ -86,6 +99,10 @@ I have a [personal blog](https://tatiana-fokina-blog.ru) about accessibility.
 - [Russian translation of “The importance of heading levels for assistive technology”](https://web-standards.ru/articles/heading-levels/), “Web Standards”. Original of [“The importance of heading levels for assistive technology”](https://webdesign.tutsplus.com/articles/the-importance-of-heading-levels-for-assistive-technology--cms-31753) by Eric Bailey.
 
 ## Talks and streams 👩‍🎤
+
+### 2023
+
+- [Tooltip based on a11y rules](https://www.youtube.com/live/JR1GHtY_XiU) (Doka's stream).
 
 ### 2022
 
