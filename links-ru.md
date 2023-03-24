@@ -2,6 +2,12 @@
 
 ## Блог 🗃️
 
+### 2023
+
+- [Клавиатура](https://tatiana-fokina-blog.ru/posts/wcag-keyboard/).
+- [Внешний вид фокуса](https://tatiana-fokina-blog.ru/posts/wcag-focus-appearance/).
+- [Принципы WCAG. Информация и взаимосвязи](https://tatiana-fokina-blog.ru/posts/wcag-info-and-relationships/).
+
 ### 2022
 
 - [Принципы WCAG. Название страницы](https://tatiana-fokina-blog.ru/posts/wcag-page-titled/).
@@ -20,6 +26,13 @@
 - [Как не навредить пользователям с эпилепсией и вестибулярными нарушениями](https://tatiana-fokina-blog.ru/posts/how-to-protect-users-with-epilepsy-and-vd/).
 
 ## Статьи ✏️
+
+### 2023
+
+- [Что такое WCAG](https://doka.guide/a11y/wcag/), Дока.
+- [`aria-modal`](https://doka.guide/a11y/aria-modal/), Дока.
+- [`switch`](https://doka.guide/a11y/role-switch/), Дока.
+- [`tooltip`](https://doka.guide/a11y/role-tooltip/), Дока.
 
 ### 2022
 
@@ -85,6 +98,10 @@
 - [Важность уровней заголовков для вспомогательных технологий](https://web-standards.ru/articles/heading-levels/), «Веб-стандарты». Перевод [«The importance of heading levels for assistive technology»](https://webdesign.tutsplus.com/articles/the-importance-of-heading-levels-for-assistive-technology--cms-31753) Эрика Бейли.
 
 ## Доклады и стримы 👩‍🎤
+
+### 2023
+
+- [Всплывающая подсказка по всем правилам a11y](https://www.youtube.com/live/JR1GHtY_XiU) (стрим Доки).
 
 ### 2022
 
